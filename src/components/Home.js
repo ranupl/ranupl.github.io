@@ -10,9 +10,9 @@ const Home = () => {
             <section id="hero" className="d-flex flex-column justify-content-center align-items-center">
                 <div className="hero-container text-pop-up-top" data-aos="fade-in">
                     <h1 className="text-center">Shanu Panchal</h1>
-                    <p className="text-center">I'm a {' '}
+                    <p className="text-center">I'm a
                         <span><Typewriter
-                            words={['Developer', 'Engineer', 'Coder', 'Designer']}
+                            words={['Developer', 'Engineer', 'Coder']}
                             loop={0}
                             cursor
                             cursorStyle='|'
