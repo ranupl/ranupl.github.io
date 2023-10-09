@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ranupl.github.io/static/css/main.b21be811.css",
+    "main.js": "/ranupl.github.io/static/js/main.fc863459.js",
+    "static/media/blue.jpg": "/ranupl.github.io/static/media/blue.dde2b1b6e938f0dd94a4.jpg",
+    "static/media/mypic.jpg": "/ranupl.github.io/static/media/mypic.c790131d0b84b364c415.jpg",
+    "index.html": "/ranupl.github.io/index.html",
+    "main.b21be811.css.map": "/ranupl.github.io/static/css/main.b21be811.css.map",
+    "main.fc863459.js.map": "/ranupl.github.io/static/js/main.fc863459.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b21be811.css",
+    "static/js/main.fc863459.js"
+  ]
+}
